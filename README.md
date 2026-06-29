@@ -21,7 +21,7 @@ This repository automates the core phases of a data-driven product workflow:
 
 ## 📊 View the Dashboard Live
 
-You can explore the interactive dashboard here: **[Insert Your Streamlit Cloud Link Here]**
+You can explore the interactive dashboard here: **[Live Demo: App Review Strategy Engine](https://review-pm-engine-kbcbjurr9ihfup6akgffdd.streamlit.app/)**
 
 *Note: The dashboard features a dynamic Review Explorer, category breakdowns, rating trends, and the final RICE-ranked feature cards.*
 
