@@ -1,0 +1,19 @@
+{
+  "name": "app-review-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes app reviews from Google Play and Apple App Store",
+  "main": "scraper.js",
+  "scripts": {
+    "scrape": "node scraper.js",
+    "analyze": "python eda.py",
+    "start": "npm run scrape && npm run analyze"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "app-store-scraper": "^0.18.0",
+    "google-play-scraper": "^10.1.3"
+  }
+}
